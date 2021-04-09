@@ -1,0 +1,16 @@
+h1{
+    color:cadetblue;
+}
+*{
+    border: black solid;
+}
+.header{
+    background-color:crimson ;
+    display: flex;
+    justify-content:space-between;
+}
+.grid{
+    display: flex;
+    justify-content:space-evenly;
+flex-wrap: wrap;
+}
